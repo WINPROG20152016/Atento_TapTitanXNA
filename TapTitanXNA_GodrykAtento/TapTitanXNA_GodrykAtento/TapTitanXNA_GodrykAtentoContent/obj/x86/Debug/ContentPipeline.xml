@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>IMGS\NekuIDLE.png</Source>
+      <Name>IMGS\NekuIDLE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\IMGS\NekuIDLE.xnb</Output>
+      <Time>2015-07-25T10:42:10.4001926+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2015-07-18T08:27:42.6959569+08:00</Time>
+    </Item>
+    <Item>
+      <Source>IMGS\Slash.png</Source>
+      <Name>IMGS\Slash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\IMGS\Slash.xnb</Output>
+      <Time>2015-07-18T09:17:02.4883191+08:00</Time>
+    </Item>
+    <Item>
+      <Source>IMGS\NekuAtk.png</Source>
+      <Name>IMGS\NekuAtk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\IMGS\NekuAtk.xnb</Output>
+      <Time>2015-07-25T10:42:10.4001926+08:00</Time>
+    </Item>
+    <Item>
+      <Source>IMGS\Tanji.png</Source>
+      <Name>IMGS\Tanji</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\IMGS\Tanji.xnb</Output>
+      <Time>2015-08-01T09:02:27.3004119+08:00</Time>
+    </Item>
+    <Item>
+      <Source>IMGS\JDial.png</Source>
+      <Name>IMGS\JDial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\IMGS\JDial.xnb</Output>
+      <Time>2015-08-01T09:08:18.9414119+08:00</Time>
+    </Item>
+    <Item>
+      <Source>IMGS\JSwing.png</Source>
+      <Name>IMGS\JSwing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\IMGS\JSwing.xnb</Output>
+      <Time>2015-08-01T09:08:18.9434119+08:00</Time>
+    </Item>
+    <Item>
+      <Source>IMGS\Hachiko.png</Source>
+      <Name>IMGS\Hachiko</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\IMGS\Hachiko.xnb</Output>
+      <Time>2015-08-01T10:40:47.1901381+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtentoContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtentoContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-23T11:53:57.1558968+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,14 @@
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\TapTitanXNA_GodrykAtento.exe
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\TapTitanXNA_GodrykAtento.pdb
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\obj\x86\Debug\TapTitanXNA_GodrykAtento.csprojResolveAssemblyReference.cache
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\obj\x86\Debug\TapTitanXNA_GodrykAtento.exe
+c:\users\istudent\documents\visual studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\obj\x86\Debug\TapTitanXNA_GodrykAtento.pdb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\IMGS\NekuIDLE.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\Font.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\IMGS\Slash.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\IMGS\NekuAtk.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\IMGS\Tanji.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\IMGS\JDial.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\IMGS\JSwing.xnb
+C:\Users\istudent\Documents\Visual Studio 2010\Projects\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\TapTitanXNA_GodrykAtento\bin\x86\Debug\Content\IMGS\Hachiko.xnb
